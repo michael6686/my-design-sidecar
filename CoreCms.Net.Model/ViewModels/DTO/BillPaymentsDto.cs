@@ -37,3 +37,4 @@ namespace CoreCms.Net.Model.ViewModels.DTO
         public decimal money { get; set; }
     }
 }
+// f7917c
